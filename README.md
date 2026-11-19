@@ -3,10 +3,11 @@
 A roadmap for learning mathematics, from first principles to current research, that pairs **books** with **video courses** for every topic.
 
 - **Books and topic structure:** [Talal Al-Rawajfeh's Mathematics Roadmap](https://github.com/TalalAlrawajfeh/mathematics-roadmap).
-- **Video courses:** collected by [Abdullah M. Al-jazy](https://abdullahmaljazy.github.io/). Courses marked 🆕 were found by a web search in November 2026.
+- **More books:** added by Abdullah M. Al-jazy for the new topics and for topics with short lists (listed under "More books").
+- **Video courses:** collected by [Abdullah M. Al-jazy](https://abdullahmaljazy.github.io/), including recorded courses from [BIMSA](https://www.bimsa.cn/) (Beijing Institute of Mathematical Sciences and Applications). Courses marked 🆕 were added in November 2026.
 - **Browse it as a web page:** [abdullahmaljazy.github.io/roadmap.html](https://abdullahmaljazy.github.io/roadmap.html)
 
-**54 topics · 198 books · 203 video courses and lecture series** (all links checked on 19 November 2026).
+**54 topics · 308 books · 333 video courses and lecture series** (all links checked on 19 November 2026).
 
 ## How to use this roadmap
 
@@ -62,6 +63,11 @@ _Start here: the language, tools and habits that everything else builds on._
 - _Infinite Powers: How Calculus Reveals the Secrets of the Universe_ — Steven H. Strogatz (Optional but Recommended).
 - _Thomas' Calculus_ — George B. Thomas, Jr.
 
+**More books**
+
+- _Calculus_ — Michael Spivak
+- _Calculus, Vol. 1 and Vol. 2_ — Tom M. Apostol
+
 **Video courses and lectures**
 
 - [MIT 18.01 Single Variable Calculus (Fall 2006)](https://youtube.com/playlist?list=PL590CCC2BC5AF3BC1)
@@ -113,6 +119,7 @@ _Start here: the language, tools and habits that everything else builds on._
 
 - [MIT 18.06 Linear Algebra — Gilbert Strang (Spring 2010)](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) 🆕
 - [Linear Algebra — Princeton University](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
+- [Linear Algebra — BIMSA Demonstration Youth Class](https://www.youtube.com/playlist?list=PLg7CTkYyb583fcPg8fvLXOZyheb82X0Zz) _(in Chinese)_ 🆕
 
 ### Introduction to Differential Equations
 
@@ -121,6 +128,10 @@ _Start here: the language, tools and habits that everything else builds on._
 - _Elementary Differential Equations and Boundary Value Problems_ — William E. Boyce, Richard C. DiPrima
 - _Differential Equations_ — Dennis Zill, Warren Wright
 - _Fundamentals of Differential Equations_ — David Snider, Edward B. Saff, and R. Kent Nagle
+
+**More books**
+
+- _Ordinary Differential Equations_ — Vladimir I. Arnold
 
 **Video courses and lectures**
 
@@ -135,6 +146,10 @@ _Start here: the language, tools and habits that everything else builds on._
 - _Discrete Mathematics with Applications_ — Susanna S. Epp
 - _Discrete Mathematics and Its Applications_ — Kenneth H. Rosen
 - _Mathematics: A Discrete Introduction_ — Edward R. Scheinerman
+
+**More books**
+
+- _Concrete Mathematics_ — Ronald L. Graham, Donald E. Knuth, Oren Patashnik
 
 **Video courses and lectures**
 
@@ -173,6 +188,16 @@ _The foundations of mathematics and what can be computed._
 **Video courses and lectures**
 
 - [Math 220A: Mathematical Logic — Artem Chernikov (UCLA)](https://www.youtube.com/playlist?list=PL54Pt_mZzBqibWHgesgEICeQHnwHom8xz)
+- [Basics of Mathematical Logic — Hanru Jiang (BIMSA, Fall 2023)](https://bimsa.net/activity/basicmathlog/) _(in Chinese)_ 🆕
+- [Introduction to mathematical logic — Boris Shapiro (BIMSA, Spring 2024)](https://bimsa.net/activity/IntroMathLogic/) 🆕
+- [Logic and Computation I — Kazuyuki Tanaka (BIMSA, Fall 2022)](https://bimsa.net/activity/LogComI/) 🆕
+- [Logic and Computation II — Kazuyuki Tanaka (BIMSA, Spring 2023)](https://bimsa.net/activity/logcomII/) 🆕
+- [Logic and Computation I — Kazuyuki Tanaka (BIMSA, Fall 2024)](https://bimsa.net/activity/LogandComI/) 🆕
+- [Logic and Computation II — Kazuyuki Tanaka (BIMSA, Spring 2025)](https://bimsa.net/activity/LogandComII/) 🆕
+- [Logic and Computation III — Kazuyuki Tanaka (BIMSA, Spring 2026)](https://bimsa.net/activity/LogandComIII/) 🆕
+- [Logic and Foundations I — Kazuyuki Tanaka (BIMSA, Fall 2023)](https://bimsa.net/activity/logicfoundationsI/) 🆕
+- [Logic and Foundations II — Kazuyuki Tanaka (BIMSA, Spring 2024)](https://bimsa.net/activity/LogandFouII/) 🆕
+- [Model Theory of Certain Algebraic Theories — Dong Quan Ngoc Nguyen (BIMSA, Spring 2023)](https://bimsa.net/activity/modeltheory/) 🆕
 
 ### Introduction to the Theory of Computation
 
@@ -181,6 +206,11 @@ _The foundations of mathematics and what can be computed._
 - _Introduction to the Theory of Computation_ — Michael Sipser
 - _Computability Theory_ — Herbert Enderton
 - _Introduction to Languages and the Theory of Computation_ — John C. Martin
+
+**More books**
+
+- _Introduction to Automata Theory, Languages, and Computation_ — John E. Hopcroft, Rajeev Motwani, Jeffrey D. Ullman
+- _Computational Complexity: A Modern Approach_ — Sanjeev Arora, Boaz Barak
 
 **Video courses and lectures**
 
@@ -208,10 +238,16 @@ _The foundations of mathematics and what can be computed._
 
 Writing mathematics that a computer can check, using Lean 4 and Mathlib.
 
+**Books**
+
+- [_Mathematics in Lean_](https://leanprover-community.github.io/mathematics_in_lean/) — Jeremy Avigad, Patrick Massot (free online)
+- [_Theorem Proving in Lean 4_](https://lean-lang.org/theorem_proving_in_lean4/) — Jeremy Avigad, Leonardo de Moura, Soonho Kong, Sebastian Ullrich (free online)
+- [_The Mechanics of Proof_](https://hrmacbeth.github.io/math2001/) — Heather Macbeth (free online)
+- [_Functional Programming in Lean_](https://lean-lang.org/functional_programming_in_lean/) — David Thrane Christiansen (free online)
+
 **Video courses and lectures**
 
 - [Formalising Mathematics — Kevin Buzzard (Imperial College London, 2024, Lean 4)](https://www.ma.imperial.ac.uk/~buzzard/xena/formalising-mathematics-2024/) 🆕
-- [Mathematics in Lean — Lean community tutorial](https://leanprover-community.github.io/mathematics_in_lean/) 🆕
 - [Lean Game Server — Natural Number Game and other interactive games](https://adam.math.hhu.de/) 🆕
 
 ## 3. Combinatorics, Probability, Statistics and Optimization
@@ -227,6 +263,14 @@ _Counting, chance, data and optimal decisions._
 - _Combinatorics: An Introduction_ — Theodore G. Faticoni
 - _How to Count: An Introduction to Combinatorics and Its Applications_ — Robert A. Beeler
 
+**More books**
+
+- _The Probabilistic Method_ — Noga Alon, Joel H. Spencer
+- _Enumerative Combinatorics, Vol. 1_ — Richard P. Stanley
+- _generatingfunctionology_ — Herbert S. Wilf
+- _Analytic Combinatorics_ — Philippe Flajolet, Robert Sedgewick
+- _Graph Theory_ — Reinhard Diestel
+
 **Video courses and lectures**
 
 - [Introduction to Additive Combinatorics — Cambridge Part III](https://www.youtube.com/playlist?list=PLOft35kj95aaPDB3YBDd4mmS8xBov_rL6)
@@ -238,6 +282,17 @@ _Counting, chance, data and optimal decisions._
 - [Math 206B: Cluster Algebras — Pavel Galashin (UCLA)](https://www.youtube.com/playlist?list=PLFlhMm_qks4JzVHRy2sTGEnEKKE3PSJ0B)
 - [Analysis of Boolean Functions (lecture series)](https://www.youtube.com/playlist?list=PLd-5P3m7vUJfvlsBcTT1pZesQBsQSoHJO)
 - [Nilsequences — Ben Green (IHÉS)](https://www.youtube.com/playlist?list=PLx5f8IelFRgEWvDoOWpvmXwcTY9mCGF4i)
+- [Combinatorics — BIMSA Demonstration Youth Class](https://www.youtube.com/playlist?list=PLg7CTkYyb583lX8-ywcXuF2V47HC0RP2T) _(in Chinese)_ 🆕
+- [Research Seminar in Discrete Mathematics — BIMSA](https://www.youtube.com/playlist?list=PLg7CTkYyb5824TX5emCXL8DASWNcBT7mN) 🆕
+- [Graph Theory — Benjamin Sudakov (BIMSA, Fall 2022)](https://bimsa.net/activity/GraphTheory/) 🆕
+- [Graph Theory — Benjamin Sudakov (BIMSA, Fall 2025)](https://bimsa.net/activity/GraThe/) 🆕
+- [Probabilistic Methods in Combinatorics — Benjamin Sudakov (BIMSA, Fall 2023)](https://bimsa.net/activity/probcomb/) 🆕
+- [Algebraic Methods in Combinatorics — Benjamin Sudakov (BIMSA, Fall 2024)](https://bimsa.net/activity/AlgMetinCom/) 🆕
+- [Topics in Combinatorics — Benjamin Sudakov (BIMSA, Fall 2026)](https://bimsa.net/activity/TopinCom/) 🆕
+- [generatingfunctionology, analytic combinatorics and the kernel method — Ruijie Xu (BIMSA, Fall 2025)](https://bimsa.net/activity/genanacomandthekermet/) 🆕
+- [Combinatorics of Young Tableaux and Configurations — Anatoli Kirillov (BIMSA, Spring 2024)](https://bimsa.net/activity/combinatorics/) 🆕
+- [Schubert calculus and symmetric polynomials — Anatoli Kirillov (BIMSA, Fall 2023)](https://bimsa.net/activity/schcalsympol/) 🆕
+- [Spectral Graph Theory over Ordered Fields — Anna Muranova (BIMSA, Spring 2025)](https://bimsa.net/activity/SpeGraTheoveOrdFie/) 🆕
 
 ### Introduction to Probability Theory
 
@@ -293,9 +348,21 @@ _Counting, chance, data and optimal decisions._
 - _Probability and Measure_ — Patrick Billingsley
 - _Probability_ — A. N. Shiryayev
 
+**More books**
+
+- _Probability: Theory and Examples_ — Rick Durrett
+- _Brownian Motion_ — Peter Mörters, Yuval Peres
+
 **Video courses and lectures**
 
 - [Measure Theory for Probabilists — Peter Pfaffelhuber (University of Freiburg, Winter 2024)](https://pfaffelh.github.io/hp/2024WS_measure_theory.html) 🆕
+- [Probability 3: A course on Brownian Motion and Stochastic Calculus — Yuval Peres (BIMSA, Fall 2024)](https://bimsa.net/activity/BrownianMotionStochasticCalculus/) 🆕
+- [Probability II — Yuval Peres (BIMSA, Spring 2026)](https://bimsa.net/activity/YuvPerLec202Spr/) 🆕
+- [Stochastic Process — Congwei Song (BIMSA, Fall 2024)](https://bimsa.net/activity/StaLea-Zen/) _(in Chinese and English)_ 🆕
+- [A Gentle Introduction to Stochastic Processes — Congwei Song (BIMSA, Spring 2025)](https://bimsa.net/activity/AGenInttoStoPro/) _(in Chinese and English)_ 🆕
+- [Malliavin Calculus and its Apllications — Xiangdong Li (BIMSA, Spring 2024)](https://bimsa.net/activity/Malliavin/) _(in Chinese)_ 🆕
+- [Topics in Random Matrix Theory — Fan Yang (BIMSA, Fall 2022)](https://bimsa.net/activity/TopRanMatThy/) _(in Chinese)_ 🆕
+- [Random matrices and their asymptotics — Pavel Nikitin (BIMSA, Fall 2025)](https://bimsa.net/activity/Ranmatandtheasy/) 🆕
 
 ### Advanced Mathematical Statistics
 
@@ -323,6 +390,8 @@ _Counting, chance, data and optimal decisions._
 - [MIT 18.330 Numerical Analysis (Dropbox)](https://www.dropbox.com/scl/fo/bzymx0yuaa60325sjyypn/AB4XQ1Ha7_ehP_sEoNzlX80?rlkey=bscs7dif2c2stdxrf0sf4bxp2&e=1&dl=0)
 - [MIT 18.337J Parallel Computing and Scientific Machine Learning](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
 - [Introduction to the Finite Element Method](https://www.youtube.com/playlist?list=PLLSzlda_AXa3yQEJAb5JcmsVDy9i9K_fi)
+- [Introduction to numerical methods for nonlinear partial differential equations — Shuo Yang (BIMSA, Fall 2025)](https://bimsa.net/activity/Inttonummetfornonpardifequ/) _(in Chinese and English)_ 🆕
+- [Finite element methods for surface PDEs — Shuo Yang (BIMSA, Spring 2026)](https://bimsa.net/activity/FinelemetforsurPDE/) _(in Chinese and English)_ 🆕
 
 ### Introduction to Optimization Theory
 
@@ -413,6 +482,12 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - _Complex Variables and Applications_ — James Ward Brown, Ruel Churchill
 - _Complex Analysis with Applications_ — Dennis G. Zill
 
+**More books**
+
+- _Complex Analysis_ — Lars V. Ahlfors
+- _Complex Analysis_ — Elias M. Stein, Rami Shakarchi
+- _Functions of One Complex Variable I_ — John B. Conway
+
 **Video courses and lectures**
 
 - [Complex Analysis — Afonso Bandeira (ETH Zürich, Fall 2020)](https://www.youtube.com/playlist?list=PLiud-28tsatLRRGqO_Eg_x0S4LVyxuV5p)
@@ -421,6 +496,11 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - [Complex Variables — Arkady Etkin](https://www.youtube.com/playlist?list=PLPmG3NTR--HE7GSErOvB1y4r_xuYt4sJX)
 - [From Conformal Invariants to Percolation — Curtis McMullen](https://youtube.com/playlist?list=PLNYQfyitVEfS8g-aXqykjDB30iI-iozZV)
 - [MAT 627: Topics in Complex Analysis, Conformal Fractals — Stony Brook](https://www.bilibili.com/video/BV1zr4y167Fy/)
+- [Advanced complex analysis — Yurii Lyubarskii (BIMSA, Fall 2024)](https://bimsa.net/activity/advcomana/) 🆕
+- [Elliptic integrals and elliptic functions 1 — Takashi Takebe (BIMSA, Fall 2023)](https://bimsa.net/activity/ellintellfun1/) 🆕
+- [Elliptic integrals and elliptic functions II — Takashi Takebe (BIMSA, Spring 2024)](https://bimsa.net/activity/ellintellfun2/) 🆕
+- [Riemann Surfaces — Sebastian Heller (BIMSA, Spring 2023)](https://bimsa.net/activity/RiemannSurfaces/) 🆕
+- [Riemann Surfaces — Zhen Li (BIMSA, Fall 2026)](https://bimsa.net/activity/RieSur/) _(in Chinese and English)_ 🆕
 
 ### Introduction to Functional Analysis
 
@@ -429,10 +509,19 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - _Introductory Functional Analysis with Applications_ — Erwin Kreyszig
 - _Principles of Functional Analysis_ — Martin Schechter
 
+**More books**
+
+- _A Course in Functional Analysis_ — John B. Conway
+- _Functional Analysis, Sobolev Spaces and Partial Differential Equations_ — Haim Brezis
+- _Functional Analysis_ — Walter Rudin
+- _C*-Algebras and Operator Theory_ — Gerard J. Murphy
+
 **Video courses and lectures**
 
 - [MIT 18.102 Introduction to Functional Analysis (Spring 2021)](https://youtube.com/playlist?list=PLUl4u3cNGP63micsJp_--fRAjZXPrQzW_)
 - [De Branges Spaces (lecture series)](https://www.youtube.com/playlist?list=PLd-5P3m7vUJfwXd5RdK4dg4aCJDYxni6V)
+- [Theory of Operator Algebras, III — Linzhe Huang (BIMSA, Fall 2026)](https://bimsa.net/activity/TheofOpeAlgIII/) _(in Chinese)_ 🆕
+- [Operator algebras, bi-unitary connections and tensor networks — Yasuyuki Kawahigashi (BIMSA, Spring 2024)](https://bimsa.net/activity/opralgbiucontennet/) · [YouTube playlist](https://www.youtube.com/playlist?list=PLg7CTkYyb583l-_8lmxXG77ZG5QQjzib5) 🆕
 
 ### Advanced Mathematical Analysis
 
@@ -443,6 +532,12 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - _Real Analysis_ — Gerald B. Folland
 - _Real Analysis_ — H.L. Royden, P.M. Fitzpatrick
 
+**More books**
+
+- _Fourier Analysis: An Introduction_ — Elias M. Stein, Rami Shakarchi
+- _An Introduction to Harmonic Analysis_ — Yitzhak Katznelson
+- _Classical Fourier Analysis_ — Loukas Grafakos
+
 **Video courses and lectures**
 
 - [AMAT 510A: Measure Theory (full course)](https://www.youtube.com/playlist?list=PLcwE4MAZOvAksWgnZ9QyoR43zQzvccZJ0)
@@ -450,6 +545,9 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - [Fourier Analysis — Tuomas Orponen](https://www.youtube.com/playlist?list=PLwQ07p7KVHJz6JEMxvNQD3rEYmANogqWH)
 - [Classical Harmonic Analysis (YouTube channel)](https://www.youtube.com/@classicalharmonicanalysis3348/videos)
 - [Sphere Packings and Fourier Analysis (lecture series)](https://www.youtube.com/playlist?list=PLd-5P3m7vUJcKb8xLcQ6A4LHxPiDcgx9b)
+- [Several topics between geometric measure theory, singular integrals and harmonic measure — Pavel Mozolyako (BIMSA, Spring 2025)](https://bimsa.net/activity/GeoMeaSinIntHarMea/) 🆕
+- [Introduction to Fractal Geometry — Szeman Ngai (BIMSA, Fall 2024)](https://bimsa.net/activity/InttoFraGeo/) 🆕
+- [Fractal Geometry and Analysis — Szeman Ngai (BIMSA, Spring 2026)](https://bimsa.net/activity/FraGeoandAna/) 🆕
 
 ### Introduction to Partial Differential Equations
 
@@ -459,6 +557,10 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - _Linear Partial Differential Equations_ — Tyn Myint-U & Lokenath Debanath
 - _Partial Differential Equations An Introduction_ — Walter A. Strauss
 - _Partial Differential Equations_ — Mark A. Pinsky
+
+**More books**
+
+- _Partial Differential Equations_ — Lawrence C. Evans
 
 **Video courses and lectures**
 
@@ -472,10 +574,22 @@ _Limits, continuity, integration and the analysis of functions and equations._
 - [Microlocal Analysis — Peter Hintz (ETH Zürich, Fall 2021)](https://www.bilibili.com/video/BV1nW4y1h7xc/)
 - [Euler and Navier–Stokes Equations — László Székelyhidi](https://youtube.com/playlist?list=PLc2lWhhRq6ddNIClbAx2tFW2Tj5kEvt4e) _(playlist curated by Abdullah Al-jazy)_
 - [Instability and Non-uniqueness for the Euler and Navier–Stokes Equations — Maria Colombo](https://www.youtube.com/watch?v=-k9y21GaeXU)
+- [Stochastic Partial Differential Equations III — Tadahisa Funaki (BIMSA, Fall 2024)](https://bimsa.net/activity/StoParDifEquIII/) 🆕
 
 ### Dynamical Systems and Ergodic Theory _(new topic)_
 
 Long-term behaviour of iterated maps and flows, from ergodic theory to moduli spaces.
+
+**Books**
+
+- _Nonlinear Dynamics and Chaos_ — Steven H. Strogatz
+- _Differential Equations, Dynamical Systems, and an Introduction to Chaos_ — Morris W. Hirsch, Stephen Smale, Robert L. Devaney
+- _An Introduction to Chaotic Dynamical Systems_ — Robert L. Devaney
+- _Introduction to Dynamical Systems_ — Michael Brin, Garrett Stuck
+- _Introduction to the Modern Theory of Dynamical Systems_ — Anatole Katok, Boris Hasselblatt
+- _An Introduction to Ergodic Theory_ — Peter Walters
+- _Ergodic Theory: with a view towards Number Theory_ — Manfred Einsiedler, Thomas Ward
+- _Dynamics in One Complex Variable_ — John Milnor
 
 **Video courses and lectures**
 
@@ -485,6 +599,13 @@ Long-term behaviour of iterated maps and flows, from ergodic theory to moduli sp
 - [Moduli Spaces for Dynamical Systems on Projective Space (Vimeo)](https://vimeo.com/796413686)
 - [Computer-Assisted Proofs and Visualization in Dynamical Systems — SNS Pisa (2024)](https://www.youtube.com/watch?v=f0qo6wJO9U4)
 - [Dynamical Systems in Neuroscience](https://www.youtube.com/playlist?list=PLTEtXsHFKZTvNIoeXHF5JSVc21LrM-j2f)
+- [An Introduction to Ergodic Theory — Sixu Liu (BIMSA, Fall 2022)](https://bimsa.net/activity/ErgThy/) _(in Chinese)_ 🆕
+- [Introduction to Ergodic theory — Sixu Liu (BIMSA, Spring 2024)](https://bimsa.net/activity/InttoErgthe/) _(in Chinese)_ 🆕
+- [Introduction to Ergodic theory — Sixu Liu (BIMSA, Spring 2025)](https://bimsa.net/activity/InttoErgthe1/) _(in Chinese)_ 🆕
+- [Ergodic Theory — Andrew Best, Yuval Peres (BIMSA, Spring 2025)](https://bimsa.net/activity/Ergthe/) 🆕
+- [Ergodic Theory: From Spectral Methods to Entropy — Sixu Liu (BIMSA, Spring 2026)](https://bimsa.net/activity/ErgTheFroSpeMettoEnt/) _(in Chinese)_ 🆕
+- [Statistical Properties of Dynamical Systems — Sixu Liu (BIMSA, Spring 2023)](https://bimsa.net/activity/staprpdynsys/) _(in Chinese)_ 🆕
+- [Statistical Properties of Dynamical Systems — Sixu Liu (BIMSA, Fall 2024)](https://bimsa.net/activity/StaProofDynSys/) _(in Chinese)_ 🆕
 
 ## 5. Algebra and Number Theory
 
@@ -498,6 +619,11 @@ _Structures, symmetries and the integers, up to the Langlands program._
 - _Elementary Number Theory with Applications_ — Thomas Koshy
 - _Elementary Number Theory_ — Kenneth H. Rosen
 
+**More books**
+
+- _An Introduction to the Theory of Numbers_ — G. H. Hardy, E. M. Wright
+- _A Friendly Introduction to Number Theory_ — Joseph H. Silverman
+
 **Video courses and lectures**
 
 - [Introduction to Number Theory (Math 115) — Richard Borcherds](https://youtube.com/playlist?list=PL8yHsr3EFj53L8sMbzIhhXSAOpuZ1Fov8)
@@ -506,6 +632,7 @@ _Structures, symmetries and the integers, up to the Langlands program._
 - [MATH 350: Number Theory](https://www.bilibili.com/video/BV1MW411N7tU/)
 - [Number Theory](https://youtube.com/playlist?list=PLc2lWhhRq6dfxUAfMSI5oetHtUvoRyey5) _(playlist curated by Abdullah Al-jazy)_
 - [The Collatz Conjecture (lecture series)](https://www.youtube.com/playlist?list=PLd-5P3m7vUJf1JTSvPzPeFiIidBdC38FX)
+- [Number Theory — BIMSA Demonstration Youth Class](https://www.youtube.com/playlist?list=PLg7CTkYyb5820J-QEcofCZxsYwhZG8fZK) _(in Chinese)_ 🆕
 
 ### Introduction to Abstract Algebra
 
@@ -528,6 +655,8 @@ _Structures, symmetries and the integers, up to the Langlands program._
 - [Galois Theory — Tom Leinster (University of Edinburgh)](https://www.maths.ed.ac.uk/~tl/galois/)
 - [MAU34101 Galois Theory — Nicolas Mascot (Trinity College Dublin)](https://www.maths.tcd.ie/~mascotn/teaching/2021/MAU34101/index.html)
 - [Abstract Algebra](https://www.youtube.com/playlist?list=PLc2lWhhRq6df90iZuoO1kXLXC2a34KjRo) _(playlist curated by Abdullah Al-jazy)_
+- [Group Theory — BIMSA Demonstration Youth Class](https://www.youtube.com/playlist?list=PLg7CTkYyb5828O4BM3LQPHeV29p14ys7n) _(in Chinese)_ 🆕
+- [Topics in Group Theory — Sergei Oblezin (BIMSA, Spring 2024)](https://bimsa.net/activity/TopinGroThe/) 🆕
 
 ### Advanced Linear Algebra
 
@@ -569,10 +698,28 @@ _Structures, symmetries and the integers, up to the Langlands program._
 - [Math 200C: Algebra — Steven Sam (UC San Diego, Spring 2022)](https://mathweb.ucsd.edu//~ssam/old/22S-200C/) · [lecture videos](https://www.bilibili.com/video/BV1aS4y1Y7aJ/)
 - [Math 205: Topics in Algebra (Winter 2017)](https://www.bilibili.com/video/BV1U4411t7Sq/)
 - [Algebra II — Georgia Tech (2021)](https://www.bilibili.com/video/BV1m64y167bM/)
+- [Introduction to Homological Algebra — Sergei Ivanov (BIMSA, Fall 2022)](https://bimsa.net/activity/IntHomAlg/) 🆕
+- [An introduction to Homological Algebra — Beihui Yuan (BIMSA, Spring 2025)](https://bimsa.net/activity/AninttoHomAlg/) 🆕
+- [Topics in Commutative Algebra: Infinite Free Resolutions — Beihui Yuan (BIMSA, Fall 2024)](https://bimsa.net/activity/TopinComAlg/) 🆕
+- [Local Commutative Algebra: Theory and Computation — Beihui Yuan (BIMSA, Fall 2026)](https://bimsa.net/activity/LocComAlgTheandCom/) 🆕
+- [Computational Commutative Algebra — Beihui Yuan (BIMSA, Spring 2024)](https://bimsa.net/activity/comcomalg/) 🆕
+- [Computational Commutative Algebra — Beihui Yuan (BIMSA, Spring 2026)](https://bimsa.net/activity/ComComAlg1/) 🆕
 
 ### Representation Theory and Lie Theory _(new topic)_
 
 Groups acting on vector spaces; Lie groups and Lie algebras.
+
+**Books**
+
+- _Representations and Characters of Groups_ — Gordon James, Martin Liebeck
+- _Linear Representations of Finite Groups_ — Jean-Pierre Serre
+- _Introduction to Representation Theory_ — Pavel Etingof et al.
+- _Representation Theory: A First Course_ — William Fulton, Joe Harris
+- _The Symmetric Group_ — Bruce E. Sagan
+- _Lie Groups, Lie Algebras, and Representations_ — Brian C. Hall
+- _Introduction to Lie Algebras and Representation Theory_ — James E. Humphreys
+- _Lie Groups Beyond an Introduction_ — Anthony W. Knapp
+- _Representation Theory and Complex Geometry_ — Neil Chriss, Victor Ginzburg
 
 **Video courses and lectures**
 
@@ -585,6 +732,18 @@ Groups acting on vector spaces; Lie groups and Lie algebras.
 - [Lie Groups and Lie Algebras — Jang Soo Kim](https://www.youtube.com/playlist?list=PLGB0U_OssPo5agzqnsr9Ubx3ACk0_2S2Y)
 - [Lie Theory and Representation Theory — SNS Pisa (2015)](https://www.youtube.com/playlist?list=PLZ4vyOIVxsn1ZpCz9KKVUGkNupHT0WCIM)
 - [Winter School: Connections between Representation Theory and Geometry — Hausdorff Center for Mathematics](https://www.youtube.com/playlist?list=PLul8LCT3AJqTBTKyqVATBHc0-ZMOLEJiJ)
+- [Representation theory of finite groups and compact groups — Boris Shapiro (BIMSA, Fall 2023)](https://bimsa.net/activity/repfincom/) 🆕
+- [Introduction to Lie algebras — Chenwei Ruan (BIMSA, Spring 2025)](https://bimsa.net/activity/InttoLiealg/) 🆕
+- [Introduction to Lie algebras II — Chenwei Ruan (BIMSA, Fall 2025)](https://bimsa.net/activity/InttoLiealgII/) 🆕
+- [Introduction to Kac–Moody algebras — Chenwei Ruan (BIMSA, Spring 2026)](https://bimsa.net/activity/InttoKacalg/) 🆕
+- [Representation theory of symmetric groups — Pavel Nikitin (BIMSA, Spring 2023)](https://bimsa.net/activity/repthysymgrp/) 🆕
+- [Representation theory of symmetric groups and Hecke algebras — Pavel Nikitin (BIMSA, Spring 2026)](https://bimsa.net/activity/ReptheofsymgroandHecalg/) 🆕
+- [Representation theory of finite-dimensional Lie algebras and superalgebras — Yevgen Makedonskyi (BIMSA, Fall 2024)](https://bimsa.net/activity/ReptheoffinLiealgandsup/) 🆕
+- [Representation theory of finite-dimensional Lie algebras and superalgebras part 2 — Yevgen Makedonskyi (BIMSA, Spring 2025)](https://bimsa.net/activity/ReptheoffinLiealgandsuppar2/) 🆕
+- [Representation Theory of Algebras — Ping He (BIMSA, Fall 2025)](https://bimsa.net/activity/RepTheofAlg/) 🆕
+- [Representation theory of affine Lie algebras — Yevgen Makedonskyi (BIMSA, Fall 2026)](https://bimsa.net/activity/ReptheofaffLiealg/) 🆕
+- [Asymptotic representation theory — Pavel Nikitin (BIMSA, Fall 2023)](https://bimsa.net/activity/asyrepthy/) 🆕
+- [Introduction to Asymptotic Representation Theory — Pavel Nikitin (BIMSA, Fall 2026)](https://bimsa.net/activity/InttoAsyRepThe/) 🆕
 
 ### Algebraic Number Theory
 
@@ -592,6 +751,16 @@ Groups acting on vector spaces; Lie groups and Lie algebras.
 
 - _Number Fields_ — Daniel A. Marcus
 - _An Introduction to the Theory of Numbers_ — Ivan Niven, Herbert S. Zuckerman, Hugh L. Montgomery
+
+**More books**
+
+- _A Classical Introduction to Modern Number Theory_ — Kenneth Ireland, Michael Rosen
+- _Algebraic Number Theory and Fermat's Last Theorem_ — Ian Stewart, David Tall
+- _Algebraic Number Theory_ — Jürgen Neukirch
+- _Algebraic Number Theory_ — Serge Lang
+- _Algebraic Number Theory_ — J. W. S. Cassels, A. Fröhlich (eds.)
+- _Local Fields_ — Jean-Pierre Serre
+- _Algebraic Number Theory and Class Field Theory (course notes)_ — J. S. Milne
 
 **Video courses and lectures**
 
@@ -602,10 +771,30 @@ Groups acting on vector spaces; Lie groups and Lie algebras.
 - [Core Topics in Modern Number Theory — Tsinghua YMSC](https://www.bilibili.com/video/BV1fz4y1e7db/) · [course page](https://archive.ymsc.tsinghua.edu.cn/pacm_course?html=Core_topics_in_modern_number_theory_I.html)
 - [Franco-Asian Summer School on Arithmetic Geometry (CIRM)](https://www.youtube.com/playlist?list=PLx5f8IelFRgEIqG6XeVVibM-6CtTYmpIC)
 - [From Number Theory to 3-Manifold Invariants (MPIM Bonn)](https://nextcloud.mpim-bonn.mpg.de/s/4XG3xSJG7AwBmde)
+- [Class field theory — Chuangqiang Hu (BIMSA, Fall 2023)](https://bimsa.net/activity/cft/) 🆕
+- [A gentle course in class field theory — Dongsheng Wu (BIMSA, Fall 2024)](https://bimsa.net/activity/Agencouinclafiethe/) _(in Chinese and English)_ 🆕
+- [Function Field Theory — Chuangqiang Hu (BIMSA, Spring 2023)](https://bimsa.net/activity/fucfldthy/) _(in Chinese)_ 🆕
+- [Cyclotomic Fields and Zeta Values — Xiuwu Zhu (BIMSA, Spring 2026)](https://bimsa.net/activity/Cycfieandzetval/) _(in Chinese)_ 🆕
+- [Heights on projective varieties: an arithmetic construction — Arnaud Plessis (BIMSA, Fall 2024)](https://bimsa.net/activity/Heionprovaranaricon/) 🆕
+- [Genetic introduction in a proof of the Super Fermat Equation and beyond — Preda Mihăilescu (BIMSA, Spring 2023)](https://bimsa.net/activity/superfermat/) 🆕
+- [An introduction to the arithmetic of elliptic curves — Dongsheng Wu (BIMSA, Spring 2025)](https://bimsa.net/activity/Anintontheariofellcur/) _(in Chinese)_ 🆕
+- [Elliptic curves and number theory — Peigen Li (BIMSA, Fall 2025)](https://bimsa.net/activity/Ellcurandnumthe/) _(in Chinese)_ 🆕
 
 ### Analytic Number Theory _(new topic)_
 
 Primes, L-functions and the Riemann zeta function, studied with the tools of analysis.
+
+**Books**
+
+- _Introduction to Analytic Number Theory_ — Tom M. Apostol
+- _Multiplicative Number Theory_ — Harold Davenport (revised by Hugh L. Montgomery)
+- _Multiplicative Number Theory I: Classical Theory_ — Hugh L. Montgomery, Robert C. Vaughan
+- _Problems in Analytic Number Theory_ — M. Ram Murty
+- _Introduction to Analytic and Probabilistic Number Theory_ — Gérald Tenenbaum
+- _The Distribution of Prime Numbers_ — Dimitris Koukoulopoulos
+- _The Theory of the Riemann Zeta-Function_ — E. C. Titchmarsh (revised by D. R. Heath-Brown)
+- _Analytic Number Theory_ — Henryk Iwaniec, Emmanuel Kowalski
+- _Opera de Cribro_ — John Friedlander, Henryk Iwaniec
 
 **Video courses and lectures**
 
@@ -613,20 +802,50 @@ Primes, L-functions and the Riemann zeta function, studied with the tools of ana
 - [Gaps between Primes and Analytic Number Theory — SLMath (MSRI) Summer School 2015](https://www.slmath.org/summer-schools/753) 🆕
 - [Number Theory over Function Fields — Will Sawin](https://www.youtube.com/playlist?list=PLx5f8IelFRgHVNhwcqma6jImcCw9mHBYc)
 - [Kevin Ford — notes on number theory and primes (homepage)](https://ford126.web.illinois.edu/)
+- [Introduction to Analytic Number Theory — Cezar Lupu (BIMSA, Fall 2025)](https://bimsa.net/activity/InttoAnaNumThe/) 🆕
+- [L-functions and zeta functions — Sergei Oblezin (BIMSA, Fall 2025)](https://bimsa.net/activity/L-fandzetfun/) 🆕
+- [Topics in Arithmetic Statistics — Xiuwu Zhu (BIMSA, Fall 2026)](https://bimsa.net/activity/TopinAriSta/) _(in Chinese)_ 🆕
 
 ### Computational Number Theory _(new topic)_
 
 Algorithms for number theory: elliptic curves, modular forms and computer algebra.
+
+**Books**
+
+- _A Computational Introduction to Number Theory and Algebra_ — Victor Shoup
+- _Prime Numbers: A Computational Perspective_ — Richard Crandall, Carl Pomerance
+- _Algorithmic Number Theory, Vol. 1: Efficient Algorithms_ — Eric Bach, Jeffrey Shallit
+- _A Course in Computational Algebraic Number Theory_ — Henri Cohen
+- _Rational Points on Elliptic Curves_ — Joseph H. Silverman, John T. Tate
+- _The Arithmetic of Elliptic Curves_ — Joseph H. Silverman
+- _Elliptic Curves: Number Theory and Cryptography_ — Lawrence C. Washington
+- _An Introduction to Mathematical Cryptography_ — Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman
+- [_Modular Forms, a Computational Approach_](https://wstein.org/books/modform/) — William Stein (free online)
 
 **Video courses and lectures**
 
 - [MIT 18.783 Elliptic Curves — Andrew Sutherland (lecture notes and slides)](https://math.mit.edu/classes/18.783/2025/lectures.html) · [OCW 2021](https://ocw.mit.edu/courses/18-783-elliptic-curves-spring-2021/) 🆕
 - [Computational Tools for Number Theorists — Andrew Sutherland (PCMI 2022, course materials)](https://github.com/AndrewVSutherland/PCMI2022) 🆕
 - [Computer Algebra lecture videos — Michael Monagan (Simon Fraser University)](https://www.cecm.sfu.ca/personal/monaganm/CAvideos/Topics.html) 🆕
+- [Elliptic Curves and Cryptography — Peigen Li (BIMSA, Spring 2025)](https://bimsa.net/activity/EllCurandCry/) _(in Chinese)_ 🆕
+- [Isogeny-based Cryptography and Quaternion Algebra — Peigen Li (BIMSA, Fall 2026)](https://bimsa.net/activity/IsoCryandQuaAlg/) _(in Chinese)_ 🆕
 
 ### Modular Forms and Automorphic Forms _(new topic)_
 
 Modular forms, complex multiplication, modularity lifting and automorphic representations.
+
+**Books**
+
+- _A Course in Arithmetic_ — Jean-Pierre Serre
+- _Introduction to Elliptic Curves and Modular Forms_ — Neal Koblitz
+- _A First Course in Modular Forms_ — Fred Diamond, Jerry Shurman
+- _The 1-2-3 of Modular Forms_ — Jan H. Bruinier, Gerard van der Geer, Günter Harder, Don Zagier
+- _Primes of the Form x² + ny²_ — David A. Cox
+- _Modular Forms_ — Toshitsune Miyake
+- _Topics in Classical Automorphic Forms_ — Henryk Iwaniec
+- _Automorphic Forms and Representations_ — Daniel Bump
+- _An Introduction to Automorphic Representations_ — Jayce R. Getz, Heekyoung Hahn
+- _Modular Forms and Fermat's Last Theorem_ — Gary Cornell, Joseph H. Silverman, Glenn Stevens (eds.)
 
 **Video courses and lectures**
 
@@ -636,10 +855,23 @@ Modular forms, complex multiplication, modularity lifting and automorphic repres
 - [Math 726: Modular Forms and Complex Multiplication — Henri Darmon (McGill, Fall 2020)](https://www.math.mcgill.ca/darmon/courses/20-21/cm/cm.html) · [lecture videos](https://www.bilibili.com/video/BV1Gv41187Eb/)
 - [Modularity Lifting and the Taylor–Wiles Method](https://www.bilibili.com/video/BV1mv411k76k/)
 - [Automorphic Representations — Alex Kontorovich (Spring 2023)](https://www.youtube.com/playlist?list=PLs6rMe3K87LHVLM5-VsdsIp_Til8qGaNs)
+- [Modular Forms — Yongxiong Li (BIMSA, Spring 2025)](https://bimsa.net/activity/ModFor/) _(in Chinese and English)_ 🆕
+- [A Differential Introduction to Modular Forms and Elliptic Curves — Hossein Movasati (BIMSA, Spring 2023)](https://bimsa.net/activity/difmodfomellcuv/) 🆕
+- [Introduction to automorphic forms — Sergei Oblezin (BIMSA, Spring 2026)](https://bimsa.net/activity/Inttoautfor/) 🆕
+- [Topics on Automorphic L-functions I — Dongming She (BIMSA, Fall 2026)](https://bimsa.net/activity/ToponAutL-fI/) 🆕
 
 ### The Langlands Program _(new topic)_
 
 The web of conjectures connecting number theory, representation theory and geometry.
+
+**Books**
+
+- _Love and Math: The Heart of Hidden Reality (a popular introduction)_ — Edward Frenkel
+- _Fourier Analysis on Number Fields (Tate's thesis and adeles)_ — Dinakar Ramakrishnan, Robert J. Valenza
+- _An Introduction to the Langlands Program_ — Joseph Bernstein, Stephen Gelbart (eds.)
+- _Automorphic Representations and L-Functions for the General Linear Group, Vols. I and II_ — Dorian Goldfeld, Joseph Hundley
+- _The Local Langlands Conjecture for GL(2)_ — Colin J. Bushnell, Guy Henniart
+- _Langlands Correspondence for Loop Groups_ — Edward Frenkel
 
 **Video courses and lectures**
 
@@ -648,6 +880,7 @@ The web of conjectures connecting number theory, representation theory and geome
 - [Overview of the Langlands Program — Kiran Kedlaya (ICERM, 2015)](https://mathinstitutes.org/videos/786) 🆕
 - [Langlands Learning Group — curated list of videos and lectures](https://langlandslearninggroup.github.io/video_lecture.html) 🆕
 - [Arizona Winter School — notes and videos in arithmetic geometry](https://swc-math.github.io/) 🆕
+- [Rational points on abelian surfaces and special values of p-adic L-functions — Fabrizio Andreatta (BIMSA, Fall 2025)](https://bimsa.net/activity/RatPotAblSufSpcValPadLfun/) 🆕
 
 ## 6. Geometry and Topology
 
@@ -680,6 +913,7 @@ _Shapes, spaces and the categorical language that unifies them._
 - [Geometry — William D. Taylor (TSU)](https://www.youtube.com/playlist?list=PLvkbENPJRqjiDO5QEbnANer7BfKEidEyt)
 - [Geometry Course — The College Prep School](https://www.youtube.com/playlist?list=PLm2VEQtiYjhoXTFAF8nuN5YrAl2Muh4Nw)
 - [Hyperbolic Geometry — Köln (2022)](https://www.youtube.com/playlist?list=PLu__j_G5qBOmJPaSvVYNEZYMQHFA2z6M9)
+- [Geometry — BIMSA Demonstration Youth Class](https://www.youtube.com/playlist?list=PLg7CTkYyb581HD9EMMNkfwt3MN1dOp6uB) _(in Chinese)_ 🆕
 
 ### Introduction to Differential Geometry
 
@@ -691,6 +925,10 @@ _Shapes, spaces and the categorical language that unifies them._
 - _Elementary Differential Geometry_ — Barrett O'Neill
 - _Elementary Differential Geometry_ — Andrew Pressley
 
+**More books**
+
+- _Introduction to Smooth Manifolds_ — John M. Lee
+
 **Video courses and lectures**
 
 - [Math 140: Metric Differential Geometry (Spring 2022)](https://www.bilibili.com/video/BV1r24y1R7FX/) · [course notes](https://docs.google.com/document/d/e/2PACX-1vSEYjUZHSqeBaf_M_sJfsQ_IxiRcr0TGArV3nbRqh8teWoIR3LONAqOVDWNJgMTvVIZugoa-bbVAelt/pub)
@@ -698,6 +936,7 @@ _Shapes, spaces and the categorical language that unifies them._
 - [Math 214: Differentiable Manifolds — course notes](https://docs.google.com/document/d/e/2PACX-1vSRehza_W6JjdltxGQULrXFo7wXxVnAQKjafwCtUwFBRi8odtYQ8WIUGTc7Vbcfa1xJESBp0E_3eUoa/pub)
 - [Manifolds — Brice Loustau (TU Darmstadt, Summer 2020)](https://brice.loustau.eu/teaching/TUDarmstadt/Manifolds2020/)
 - [Topological Manifolds — course notes (University of Glasgow)](https://www.maths.gla.ac.uk/~mpowell/topological-manifolds.html)
+- [Riemannian Geometry — Lynn Heller (BIMSA, Fall 2023)](https://bimsa.net/activity/riemannian/) 🆕
 
 ### Advanced Differential Geometry
 
@@ -709,6 +948,10 @@ _Shapes, spaces and the categorical language that unifies them._
 - _A Comprehensive Introduction to Differential Geometry_ — Michael Spivak
 - _First Steps in Differential Geometry_ — Andrew Mclnerney
 
+**More books**
+
+- _Riemannian Geometry_ — Manfredo P. do Carmo
+
 **Video courses and lectures**
 
 - [MIT 18.965 Geometry of Manifolds I (Fall 2020)](https://www.bilibili.com/video/BV19T4y1M7W5/)
@@ -718,6 +961,10 @@ _Shapes, spaces and the categorical language that unifies them._
 - [A Gentle Introduction to Floer Theory in Symplectic Geometry](https://www.bilibili.com/video/BV1Qv411Y73x/)
 - [Three Lectures on Fukaya Categories — James Pascaleff (homepage)](https://pascaleff.github.io/)
 - [Geometry and Analysis of Groups and Manifolds — SNS Pisa (2023)](https://www.youtube.com/watch?v=-JCD-icUnvQ)
+- [Spin Geometry — Zheyan Wan (BIMSA, Fall 2025)](https://bimsa.net/activity/SpinGeo/) 🆕
+- [Dg manifolds and higher structures — Ping Xu (BIMSA, Fall 2024)](https://bimsa.net/activity/DgManifolds/) 🆕
+- [Introduction to Alexandrov geometry and Degenerations of geometric objects — Guillaume Tahar (BIMSA, Fall 2024)](https://bimsa.net/activity/InttoAlegeoanddegofgeoobj/) 🆕
+- [Introducation to Hamiltoian Systems and Symplectic Geometric Method — Zaijiu Shang (BIMSA, Fall 2023)](https://bimsa.net/activity/geonumintII/) 🆕
 
 ### Motivation for Category Theory
 
@@ -737,6 +984,13 @@ _Shapes, spaces and the categorical language that unifies them._
 - _Abstract and Concrete Categories The Joy of Cats_ — Jiri Adamek
 - _Category Theory: A Gentle Introduction_ — Peter Smith
 
+**More books**
+
+- _Categories for the Working Mathematician_ — Saunders Mac Lane
+- _Elements of ∞-Category Theory_ — Emily Riehl, Dominic Verity
+- _Higher Categories and Homotopical Algebra_ — Denis-Charles Cisinski
+- _Higher Topos Theory_ — Jacob Lurie
+
 **Video courses and lectures**
 
 - [Categories for the Idle Mathematician — Richard Borcherds](https://youtube.com/playlist?list=PL8yHsr3EFj51F9XZ_Ka4bLnQoxTdMx0AL)
@@ -745,6 +999,13 @@ _Shapes, spaces and the categorical language that unifies them._
 - [Math 428: Introduction to Category Theory — Eugene Lerman (University of Illinois, Fall 2020)](https://lerman.web.illinois.edu/428/f20/428f20hw.html) · [2021 syllabus](https://lerman.web.illinois.edu/428/f21/428f21.html) · [video mirror](https://www.bilibili.com/video/BV1EM4y1G7L8/)
 - [Categories and Sheaves reading group](https://www.bilibili.com/video/BV1EZ4y1c7EQ/)
 - [Toposes Online (2021)](https://www.youtube.com/playlist?list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1)
+- [Categorical Tools in Low-Dimensional Quantum Field Theory and Topological Phases — Jürgen Fuchs (BIMSA, 2024–25)](https://www.youtube.com/playlist?list=PLg7CTkYyb580sJk6mjxqvz_jl24g4AMKp) 🆕
+- [Category Theory — Hao Zheng (BIMSA, Spring 2023)](https://bimsa.net/activity/category/) _(in Chinese)_ 🆕
+- [Selected topics on category theory — Hao Zheng (BIMSA, Spring 2022)](https://bimsa.net/activity/SelCatThy/) 🆕
+- [Selected topics on category theory — Hao Zheng (BIMSA, Fall 2023)](https://bimsa.net/activity/selcatthyII/) 🆕
+- [Introduction to ∞-categories — Sergei Ivanov (BIMSA, Fall 2024)](https://bimsa.net/activity/Intto%E2%88%9E/) 🆕
+- [Introduction to ∞-categories II — Sergei Ivanov (BIMSA, Spring 2025)](https://bimsa.net/activity/infcatII/) 🆕
+- [Triangulated Categories and Derived Categories — Ping He (BIMSA, Fall 2026)](https://bimsa.net/activity/TriCatandDerCat/) _(in Chinese)_ 🆕
 
 ### Algebraic Topology Motivation
 
@@ -765,6 +1026,12 @@ _Shapes, spaces and the categorical language that unifies them._
 - _A first course in Algebraic Topology_ — C. Kosniowski
 - _Elements of Algebraic Topology_ — James Munkres
 
+**More books**
+
+- _A Concise Course in Algebraic Topology_ — J. Peter May
+- _Topology and Geometry_ — Glen E. Bredon
+- _Differential Forms in Algebraic Topology_ — Raoul Bott, Loring W. Tu
+
 **Video courses and lectures**
 
 - [Algebraic Topology (second-semester topology)](https://www.youtube.com/playlist?list=PLOBihMA_RkOjVo8GWtdT9Auq33s826t6O)
@@ -776,6 +1043,17 @@ _Shapes, spaces and the categorical language that unifies them._
 - [Combinatorial Algebraic Topology and Applications — SNS Pisa (2023)](https://www.youtube.com/watch?v=Rdjw4QZs054)
 - [Surgery Theory](https://www.bilibili.com/video/BV1NN411g7JJ/)
 - [Knot Theory](https://www.bilibili.com/video/BV1Ph411o7Q1/)
+- [Simplicial Homology and Homotopy — Jingyan Li (BIMSA, Fall 2021)](https://bimsa.net/activity/SimHomHom/) 🆕
+- [Simplicial Homology and Homotopy II — Jingyan Li (BIMSA, Spring 2022)](https://bimsa.net/activity/SimHomHomII/) 🆕
+- [Homotopy Theory I — Jie Wu (BIMSA, Spring 2022)](https://bimsa.net/activity/HomThyI/) 🆕
+- [Simplicial homotopy theory and model category — Chuangqiang Hu (BIMSA, Spring 2024)](https://bimsa.net/activity/Simhomtheandmodcat/) _(in Chinese)_ 🆕
+- [Rational homotopy theory — Grigory Papayanov (BIMSA, Spring 2026)](https://bimsa.net/activity/Rathomthe/) 🆕
+- [Introduction to stable homotopy theory via ∞-categories — Sergei Ivanov (BIMSA, Spring 2026)](https://bimsa.net/activity/InttostahomtheviaE2889E/) 🆕
+- [Spectral Sequences in Algebraic Topology — Zheyan Wan (BIMSA, Fall 2026)](https://bimsa.net/activity/SpeSeqAlgTop/) 🆕
+- [Knot Theory — Vassily Manturov (BIMSA, Spring 2024)](https://bimsa.net/activity/KnoThe/) 🆕
+- [Introduction to geometric topology on 3-manifold — Yong Li (BIMSA, Fall 2025)](https://bimsa.net/activity/Inttogeotopon3-m/) _(in Chinese and English)_ 🆕
+- [Classical Constructions in Geometric Topology — Guillaume Tahar (BIMSA, Spring 2024)](https://bimsa.net/activity/ClaConinGeoTop/) 🆕
+- [Topological Modular Forms — Zheyan Wan (BIMSA, Fall 2024)](https://bimsa.net/activity/TopModFor/) 🆕
 
 ### Algebraic Geometry Motivation
 
@@ -794,6 +1072,16 @@ _Shapes, spaces and the categorical language that unifies them._
 - _Elementary Algebraic Geometry_ — Keith Kendig
 - _Introduction to Algebraic Geometry_ — Justin R. Smith
 
+**More books**
+
+- _Algebraic Curves_ — William Fulton
+- _Algebraic Geometry_ — Robin Hartshorne
+- _The Rising Sea: Foundations of Algebraic Geometry_ — Ravi Vakil
+- _Algebraic Geometry I: Schemes_ — Ulrich Görtz, Torsten Wedhorn
+- _The Geometry of Schemes_ — David Eisenbud, Joe Harris
+- _The Red Book of Varieties and Schemes_ — David Mumford
+- _Principles of Algebraic Geometry_ — Phillip Griffiths, Joseph Harris
+
 **Video courses and lectures**
 
 - [Algebraic Geometry I: Varieties — Richard Borcherds](https://youtube.com/playlist?list=PL8yHsr3EFj53j51FG6wCbQKjBgpjKa5PX)
@@ -811,6 +1099,24 @@ _Shapes, spaces and the categorical language that unifies them._
 - [Derived Algebraic Geometry — ETH Zürich (Spring 2023)](https://video.ethz.ch/lectures/d-math/2023/spring/401-4146-22L.html)
 - [Masterclass in Condensed Mathematics (Copenhagen)](https://www.youtube.com/playlist?list=PLAMniZX5MiiLXPrD4mpZ-O9oiwhev-5Uq)
 - [Analytic Stacks — Dustin Clausen and Peter Scholze](https://www.youtube.com/playlist?list=PLx5f8IelFRgGmu6gmL-Kf_Rl_6Mm7juZO)
+- [Beijing Summer Workshop in Mathematics and Mathematical Physics — BIMSA](https://www.youtube.com/playlist?list=PLg7CTkYyb582zdGEpo_mJR4V2Jd3Zs25k) 🆕
+- [Algebraic Curves — Dali Shen (BIMSA, Fall 2024)](https://bimsa.net/activity/AlgCur/) 🆕
+- [Algebraic Curves — Dongsheng Wu (BIMSA, Spring 2026)](https://bimsa.net/activity/AlgCur1/) _(in Chinese and English)_ 🆕
+- [Complex Algebraic Surfaces — Dali Shen (BIMSA, Spring 2025)](https://bimsa.net/activity/ComAlgSur/) 🆕
+- [Theory of schemes and stacks, Derived Categories and Intersection theory I — Artan Sheshmani (BIMSA, Fall 2024)](https://bimsa.net/activity/TheofschandstaDerCatandIntthe/) 🆕
+- [Theory of schemes and stacks, Derived Categories and Intersection theory II — Artan Sheshmani (BIMSA, Spring 2025)](https://bimsa.net/activity/TheofschandstaDerCatandInttheII/) 🆕
+- [Theory of schemes and stacks, Derived Categories and Intersection theory II — Artan Sheshmani (BIMSA, Spring 2026)](https://bimsa.net/activity/TheofschandstaDerCatandInttheII1/) 🆕
+- [Introduction to Intersection Theory and Enumerative Geometry — Yuxiang Liu (BIMSA, Spring 2026)](https://bimsa.net/activity/InttoIntTheandEnuGeo/) 🆕
+- [Intersection Theory and Enumerative Geometry — Yuxiang Liu (BIMSA, Fall 2026)](https://bimsa.net/activity/IntTheandEnuGeo/) 🆕
+- [Perverse Sheaves — Grigory Papayanov (BIMSA, Fall 2025)](https://bimsa.net/activity/PerShe/) 🆕
+- [Introduction to non-Archimedean analytic geometry — Hang Yuan (BIMSA, Fall 2025)](https://bimsa.net/activity/Inttononanageo/) 🆕
+- [Moduli Spaces of Riemann Surfaces — Dali Shen (BIMSA, Fall 2025)](https://bimsa.net/activity/ModSpaofRieSur/) 🆕
+- [Moduli spaces of algebraic curves and differential forms — Guillaume Tahar (BIMSA, Fall 2025)](https://bimsa.net/activity/Modspaofalgcuranddiffor/) 🆕
+- [Motivic Cohomology — Nanjun Yang (BIMSA, Spring 2022)](https://bimsa.net/activity/MotivicCoh/) 🆕
+- [Motivic Cohomology — Nanjun Yang (BIMSA, Spring 2024)](https://bimsa.net/activity/MotCoh1/) _(in Chinese)_ 🆕
+- [Motivic Cohomology — Nanjun Yang (BIMSA, Spring 2025)](https://bimsa.net/activity/MotCoh2/) _(in Chinese)_ 🆕
+- [Motivic Cohomology — Nanjun Yang (BIMSA, Spring 2026)](https://bimsa.net/activity/MotCoh3/) 🆕
+- [Quadratic Forms on Algebraic Varieties — Nanjun Yang (BIMSA, Fall 2025)](https://bimsa.net/activity/QuaForonAlgVar/) 🆕
 
 ## 7. Writing and More Resources
 
@@ -820,12 +1126,22 @@ _Writing mathematics well, and more places to learn from._
 
 How to write mathematics, plus talks and study roadmaps.
 
+**Books**
+
+- _Mathematical Writing_ — Donald E. Knuth, Tracy Larrabee, Paul M. Roberts
+- _How to Write Mathematics_ — Norman E. Steenrod, Paul R. Halmos, Menahem M. Schiffer, Jean A. Dieudonné
+- _Handbook of Writing for the Mathematical Sciences_ — Nicholas J. Higham
+- _A Primer of Mathematical Writing_ — Steven G. Krantz
+- _How to Think Like a Mathematician_ — Kevin Houston
+- _The Princeton Companion to Mathematics_ — Timothy Gowers (ed.)
+
 **Video courses and lectures**
 
 - [Lectures on Mathematical Writing — Donald Knuth](https://www.youtube.com/playlist?list=PLOdeqCXq1tXihn5KmyB2YTOqgxaUkcNYG)
 - [Millennium Problem Talks — David Metzler](https://www.youtube.com/playlist?list=PL613A31A706529585)
 - [Math Major Roadmaps — MIT Mathematics](https://math.mit.edu/academics/undergrad/roadmaps.html)
 - [Undergraduate writing resources — MIT](https://cmsw.mit.edu/education/writing/undergraduate/)
+- [History of Mathematics — BIMSA lecture series](https://www.youtube.com/playlist?list=PLg7CTkYyb5821JQi28ctJFGH-qLXAEbNF) 🆕
 
 ### More Notes and Homepages _(new topic)_
 
